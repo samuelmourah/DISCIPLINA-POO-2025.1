@@ -1,4 +1,6 @@
 #ENUCIADO DAS QUESTÕES PROPOSTOS DO CAPITULO 4
+
+
  Exercícios de Lógica de Programação
 Este repositório foi criado para auxiliar no aprendizado de lógica de programação, com questões do capítulo 4 organizadas em duas categorias principais:
 
@@ -52,7 +54,8 @@ Valor de I	Forma de Escrever A, B e C
 9. Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
 10. Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
-📝 Exercícios Propostos
+
+#📝 Exercícios Propostos
 
 1. Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 
