@@ -1,5 +1,6 @@
 
-🖥️Exercícios de Lógica de Programação
+#Exercícios de Lógica de Programação
+
 Este repositório foi criado para auxiliar no aprendizado de lógica de programação, somente com as questões RESOLVIDAS do capítulo 8!
 
 1. Faça um programa contendo uma sub-rotina que retorne 1 se o número digitado for positivo ou 0 se for negativo.
